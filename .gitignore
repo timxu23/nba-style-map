@@ -1,0 +1,23 @@
+# --- Data: regenerable, not versioned ---
+data/
+
+# --- Project docs kept local ---
+CLAUDE.md
+nba_style_map_roadmap.md
+NOTES.md
+
+# --- Python virtual environment ---
+.venv/
+venv/
+
+# --- Python bytecode / caches ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- OS / editor cruft ---
+.DS_Store
+.vscode/
+.idea/
